@@ -4,12 +4,13 @@
 
 **Source**
 
-Dataset Source - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
+Dataset Source - [source](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977)
+
 The data consists of 8 column and 1000 rows.
 
-**The dataset** The goal is to predict `marks` of given student (Regression Analysis).
+**The dataset** The goal is to predict `math score` of given student (Regression Analysis).
 
-There are 7 independent variables (including `id`):
+There are 7 independent variables:
 
 - `gender` : sex of students  -> (Male/female)
 - `race/ethnicity` : ethnicity of students -> (Group A, B,C, D,E)
@@ -24,7 +25,7 @@ Target variable:
 
 # AWS Deployment Link :
 
-AWS Elastic Beanstalk link : [http://studentperfomance-env.eba-pn7btpgm.ap-south-1.elasticbeanstalk.com/predictdata]
+AWS Elastic Beanstalk link : [link](http://studentperfomance-env.eba-pn7btpgm.ap-south-1.elasticbeanstalk.com/predictdata)
 
 # Screenshot of UI
 
