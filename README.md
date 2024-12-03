@@ -21,7 +21,7 @@ There are 7 independent variables:
 - `writing score`
 
 Target variable:
-* `math score`: Price of the given Diamond.
+* `math score`: Score of the given student.
 
 # AWS Deployment Link :
 
