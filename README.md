@@ -51,7 +51,7 @@ AWS Elastic Beanstalk link : [link](http://studentperfomance-env.eba-pn7btpgm.ap
     * This pipeline converts given data into dataframe and has various functions to load pickle files and predict the final results in python.
 
 5. Flask App creation : 
-    * Flask app is created with User Interface to predict the gemstone prices inside a Web Application.
+    * Flask app is created with User Interface to predict the student's score inside a Web Application.
 
 # Exploratory Data Analysis Notebook
 
